@@ -75,7 +75,7 @@ sig_gene_p
 sig_gene <- names(sig_gene_p)
 hist(sig_gene_p, n = 10, col = "cyan", main = "Distribution of P-Values for Genes (p < 0.01)", xlab = "P-Value", xlim = c(0, 0.01))
 
-# Sample Visulization with PCA plot
+# Sample Visualization with PCA plot
 df_subset <- df_filtered[sig_gene, ]
 dat.pca <- prcomp(t(df_subset))
 loading <- dat.pca$x[, 1:2]
