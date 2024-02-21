@@ -8,9 +8,9 @@ The analysis pipeline includes the following steps:
 
 1. **Data Preprocessing**: Checking for outlier samples.
 2. **Gene Filtering**: Removing genes with low expression values.
-3. **Feature Selection**: Utilizing the empirical Bayes method for identifying significant genes with multiplicity adjustment
-4. **Sample Visualization**: Visualizing samples in two-dimensional space with clustering and dimensionality reduction methods 
-5. **Classification**: Predicting sample classes based on gene expression profiles using Linear Discriminant Analysis (LDA)
+3. **Feature Selection**: Utilizing the empirical Bayes method for identifying significant genes with multiplicity adjustment.
+4. **Sample Visualization**: Visualizing samples in two-dimensional space with clustering and dimensionality reduction methods.
+5. **Classification**: Predicting sample classes based on gene expression profiles using Linear Discriminant Analysis (LDA).
 6. **Functional Annotation of Top Discriminant Genes**: Exploring the biological relevance of top discriminant genes.
 
 ## Repository Contents
