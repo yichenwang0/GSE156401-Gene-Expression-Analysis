@@ -1,6 +1,6 @@
 # MEK5-Mediated Gene Expression Changes in PC3 Prostate Cancer Cells
 
-This repository contains code and documentation for analyzing a publicly available dataset from the Gene Expression Omnibus (GEO), which can be accessed [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156401). The dataset includes gene expression measurements in PC3 cells expressing a scrambled shRNA (shControl) or MEK5 shRNA, with three replicates for each condition. 
+This repository contains code and documentation for analyzing a publicly available dataset from the Gene Expression Omnibus (GEO). The dataset includes gene expression measurements in PC3 human prostate cancer cells expressing a scrambled shRNA (shControl) or MEK5 shRNA, with three replicates for each condition. The dataset can be accessed [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156401).
 
 ## Project Overview  
 
